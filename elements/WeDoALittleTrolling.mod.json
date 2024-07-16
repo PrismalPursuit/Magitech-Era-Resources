@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "We Do a Little Trolling",
+    "rarity": "EPIC",
+    "texture": "singles3",
+    "description": "Vylet Pony - We Do a Little Trolling",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_single_wedoalittletrolling"
+    },
+    "lengthInTicks": 2401,
+    "analogOutput": 8
+  }
+}

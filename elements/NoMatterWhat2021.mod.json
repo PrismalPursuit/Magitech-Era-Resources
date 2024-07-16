@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "No Matter What (2021)",
+    "rarity": "RARE",
+    "texture": "singles1",
+    "description": "Vylet Pony - No Matter What (2021)",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_single_nomatterwhat2021"
+    },
+    "lengthInTicks": 3502,
+    "analogOutput": 0
+  }
+}

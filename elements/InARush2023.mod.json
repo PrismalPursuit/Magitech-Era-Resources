@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "In a Rush (2023)",
+    "rarity": "RARE",
+    "texture": "singles1",
+    "description": "Vylet Pony - In a Rush (2023)",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_single_inarush2023"
+    },
+    "lengthInTicks": 4865,
+    "analogOutput": 6
+  }
+}

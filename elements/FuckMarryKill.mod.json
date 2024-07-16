@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FUCK MARRY KILL",
+    "rarity": "RARE",
+    "texture": "singles2",
+    "description": "Vylet Pony - FUCK MARRY KILL",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_single_fuckmarrykill"
+    },
+    "lengthInTicks": 4929,
+    "analogOutput": 14
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Simple Pony",
+    "rarity": "RARE",
+    "texture": "singles1",
+    "description": "Vylet Pony - Simple Pony",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_single_simplepony"
+    },
+    "lengthInTicks": 2561,
+    "analogOutput": 0
+  }
+}

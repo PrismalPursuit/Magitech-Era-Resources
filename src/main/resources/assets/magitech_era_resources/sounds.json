@@ -1,0 +1,74 @@
+{
+  "vyletpony_single_bitofamonster": {
+    "subtitle": "subtitles.vyletpony_single_bitofamonster",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_bitofamonster",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_single_everythingglimmer": {
+    "subtitle": "subtitles.vyletpony_single_everythingglimmer",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_everythingglimmer",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_single_fuckmarrykill": {
+    "subtitle": "subtitles.vyletpony_single_fuckmarrykill",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_fuckmarrykill",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_single_inarush2023": {
+    "subtitle": "subtitles.vyletpony_single_inarush2023",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_inarush2023",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_single_minenice2me": {
+    "subtitle": "subtitles.vyletpony_single_minenice2me",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_minenice2me",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_single_nomatterwhat2021": {
+    "subtitle": "subtitles.vyletpony_single_nomatterwhat2021",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_nomatterwhat2021",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_single_simplepony": {
+    "subtitle": "subtitles.vyletpony_single_simplepony",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_simplepony",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_single_wedoalittletrolling": {
+    "subtitle": "subtitles.vyletpony_single_wedoalittletrolling",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_single_wedoalittletrolling",
+        "stream": true
+      }
+    ]
+  }
+}
