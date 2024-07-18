@@ -31,4 +31,30 @@ public class MagitechEraResourcesModSounds {
 			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_single_simplepony")));
 	public static final RegistryObject<SoundEvent> VYLETPONY_SINGLE_WEDOALITTLETROLLING = REGISTRY.register("vyletpony_single_wedoalittletrolling",
 			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_single_wedoalittletrolling")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_1 = REGISTRY.register("vyletpony_girlswhoarewizards_1",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_1")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_2 = REGISTRY.register("vyletpony_girlswhoarewizards_2",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_2")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_3 = REGISTRY.register("vyletpony_girlswhoarewizards_3",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_3")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_4 = REGISTRY.register("vyletpony_girlswhoarewizards_4",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_4")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_5 = REGISTRY.register("vyletpony_girlswhoarewizards_5",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_5")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_6 = REGISTRY.register("vyletpony_girlswhoarewizards_6",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_6")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_7 = REGISTRY.register("vyletpony_girlswhoarewizards_7",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_7")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_8 = REGISTRY.register("vyletpony_girlswhoarewizards_8",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_8")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_9 = REGISTRY.register("vyletpony_girlswhoarewizards_9",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_9")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_11 = REGISTRY.register("vyletpony_girlswhoarewizards_11",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_11")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_12 = REGISTRY.register("vyletpony_girlswhoarewizards_12",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_12")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_13 = REGISTRY.register("vyletpony_girlswhoarewizards_13",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_13")));
+	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_10 = REGISTRY.register("vyletpony_girlswhoarewizards_10",
+			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_10")));
 }

@@ -1,0 +1,27 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Sacred Dragon",
+    "rarity": "RARE",
+    "texture": "girlswhoarewizards",
+    "description": "Vylet Pony - Sacred Dragon",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": [
+        "Girls Who Are Wizards - 10",
+        "07-11-24"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_girlswhoarewizards_10"
+    },
+    "lengthInTicks": 6610,
+    "analogOutput": 10
+  }
+}

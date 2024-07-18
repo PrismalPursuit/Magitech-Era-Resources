@@ -1,0 +1,27 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "The Queen Is Back",
+    "rarity": "COMMON",
+    "texture": "girlswhoarewizards",
+    "description": "Vylet Pony - The Queen Is Back",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": [
+        "Girls Who Are Wizards - 3",
+        "05-10-24"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_girlswhoarewizards_3"
+    },
+    "lengthInTicks": 4556,
+    "analogOutput": 3
+  }
+}

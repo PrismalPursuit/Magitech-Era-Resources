@@ -1,0 +1,28 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "The Wizard Of Wubz (Wub Anthem)",
+    "rarity": "RARE",
+    "texture": "girlswhoarewizards",
+    "description": "Vylet Pony - The Wizard Of Wubz (Wub Anthem)",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": [
+        "Ft. Tracy Brakes",
+        "Girls Who Are Wizards - 4",
+        "07-11-24"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_girlswhoarewizards_4"
+    },
+    "lengthInTicks": 4370,
+    "analogOutput": 4
+  }
+}

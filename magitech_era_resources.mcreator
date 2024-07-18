@@ -122,6 +122,240 @@
           "src/main/java/net/mcreator/magitecheraresources/item/WeDoALittleTrollingItem.java"
         ]
       }
+    },
+    {
+      "name": "GirlsWhoAreWizards",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "girls_who_are_wizards",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/girls_who_are_wizards.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/GirlsWhoAreWizardsItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TheStoryOfDjGoober",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_story_of_dj_goober",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/the_story_of_dj_goober.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/TheStoryOfDjGooberItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TheQueenIsBack",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_queen_is_back",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/TheQueenIsBackItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/the_queen_is_back.json"
+        ]
+      }
+    },
+    {
+      "name": "TheWizardOfWubz",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_wizard_of_wubz",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/TheWizardOfWubzItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/the_wizard_of_wubz.json"
+        ]
+      }
+    },
+    {
+      "name": "TheresAMenuThemeNestledWithinUsAll",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theres_a_menu_theme_nestled_within_us_all",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/TheresAMenuThemeNestledWithinUsAllItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/theres_a_menu_theme_nestled_within_us_all.json"
+        ]
+      }
+    },
+    {
+      "name": "MusiciansOfPonyville",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "musicians_of_ponyville",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/musicians_of_ponyville.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/MusiciansOfPonyvilleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ReflectedInTheEyesOfTheCavernLurker",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reflected_in_the_eyes_of_the_cavern_lurker",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/ReflectedInTheEyesOfTheCavernLurkerItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/reflected_in_the_eyes_of_the_cavern_lurker.json"
+        ]
+      }
+    },
+    {
+      "name": "CreatureCity",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creature_city",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/creature_city.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/CreatureCityItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PotionSeller",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potion_seller",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/PotionSellerItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/potion_seller.json"
+        ]
+      }
+    },
+    {
+      "name": "SacredDragon",
+      "type": "musicdisc",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sacred_dragon",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/SacredDragonItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/sacred_dragon.json"
+        ]
+      }
+    },
+    {
+      "name": "BattleAgainstTheBanishedSorcererKnightStinklebug",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "battle_against_the_banished_sorcerer_knight_stinklebug",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/BattleAgainstTheBanishedSorcererKnightStinklebugItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/battle_against_the_banished_sorcerer_knight_stinklebug.json"
+        ]
+      }
+    },
+    {
+      "name": "FacingOblivionToBecomeTheLodeStar",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "facing_oblivion_to_become_the_lode_star",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/facing_oblivion_to_become_the_lode_star.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/FacingOblivionToBecomeTheLodeStarItem.java"
+        ]
+      }
+    },
+    {
+      "name": "InTheNameOfFriendship",
+      "type": "musicdisc",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "in_the_name_of_friendship",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/InTheNameOfFriendshipItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/in_the_name_of_friendship.json"
+        ]
+      }
+    },
+    {
+      "name": "MapDye",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "map_dye",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/map_dye.json"
+        ]
+      }
+    },
+    {
+      "name": "InkDye",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ink_dye",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/ink_dye.json"
+        ]
+      }
+    },
+    {
+      "name": "Charcoal",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "charcoal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/charcoal.json"
+        ]
+      }
+    },
+    {
+      "name": "MapEdit",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "map_edit",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/map.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -189,10 +423,127 @@
       ],
       "category": "record",
       "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_1",
+      "files": [
+        "vyletpony_girlswhoarewizards_1girlswhoarewizards"
+      ],
+      "category": "music",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_2",
+      "files": [
+        "vyletpony_girlswhoarewizards_2thestoryofdjgoober"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_3",
+      "files": [
+        "vyletpony_girlswhoarewizards_3thequeenisback"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_4",
+      "files": [
+        "vyletpony_girlswhoarewizards_4thewizardofwubz-wubanthem-"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_5",
+      "files": [
+        "vyletpony_girlswhoarewizards_5theresamenuthemenestledwithinusall"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_6",
+      "files": [
+        "vyletpony_girlswhoarewizards_6musiciansofponyville"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_7",
+      "files": [
+        "vyletpony_girlswhoarewizards_7reflectedintheeyesofthecavernlurker"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_8",
+      "files": [
+        "vyletpony_girlswhoarewizards_8creaturecity"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_9",
+      "files": [
+        "vyletpony_girlswhoarewizards_9potionseller"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_11",
+      "files": [
+        "vyletpony_girlswhoarewizards_11battleagainstthebanishedsorcererknightstinklebug"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_12",
+      "files": [
+        "vyletpony_girlswhoarewizards_12facingobliviontobecomethelodestar"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_13",
+      "files": [
+        "vyletpony_girlswhoarewizards_13inthenameoffriendship"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "vyletpony_girlswhoarewizards_10",
+      "files": [
+        "vyletpony_girlswhoarewizards_10sacreddragon"
+      ],
+      "category": "record",
+      "subtitle": "Vylet Pony disc playing"
     }
   ],
   "tag_elements": {
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:InTheNameOfFriendship",
+      "~CUSTOM:FacingOblivionToBecomeTheLodeStar",
+      "~CUSTOM:BattleAgainstTheBanishedSorcererKnightStinklebug",
+      "~CUSTOM:SacredDragon",
+      "~CUSTOM:PotionSeller",
+      "~CUSTOM:CreatureCity",
+      "~CUSTOM:ReflectedInTheEyesOfTheCavernLurker",
+      "~CUSTOM:MusiciansOfPonyville",
+      "~CUSTOM:TheresAMenuThemeNestledWithinUsAll",
+      "~CUSTOM:TheWizardOfWubz",
+      "~CUSTOM:TheQueenIsBack",
+      "~CUSTOM:TheStoryOfDjGoober",
+      "~CUSTOM:GirlsWhoAreWizards",
       "~CUSTOM:WeDoALittleTrolling",
       "~CUSTOM:NoMatterWhat2021",
       "~CUSTOM:InARush2023",
@@ -205,34 +556,85 @@
   },
   "language_map": {
     "en_us": {
-      "subtitles.vyletpony_single_inarush2023": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_1": "Vylet Pony disc playing",
       "subtitles.vyletpony_single_minenice2me": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_3": "Vylet Pony disc playing",
       "item.magitech_era_resources.we_do_a_little_trolling": "We Do a Little Trolling",
+      "subtitles.vyletpony_girlswhoarewizards_2": "Vylet Pony disc playing",
       "item.magitech_era_resources.everything_glimmer.desc": "Vylet Pony - Everything Glimmer",
-      "subtitles.vyletpony_minenice2me": "Vylet Pony disc playing",
-      "item.magitech_era_resources.bit_of_a_monster.desc": "Vylet Pony - Bit of a Monster",
-      "subtitles.vyletpony_single_bitofamonster": "Vylet Pony disc playing",
-      "item.magitech_era_resources.in_a_rush_2023.desc": "Vylet Pony - In a Rush (2023)",
-      "item.magitech_era_resources.no_matter_what_2021.desc": "Vylet Pony - No Matter What (2021)",
+      "subtitles.vyletpony_girlswhoarewizards_7reflectedintheeyesofthecavernlurke": "Vylet Pony disc playing",
+      "item.magitech_era_resources.the_story_of_dj_goober.desc": "Vylet Pony - The Story Of DJ Goober",
+      "item.magitech_era_resources.girls_who_are_wizards.desc": "Vylet Pony - Girls Who Are Wizards",
+      "item.magitech_era_resources.creature_city.desc": "Vylet Pony - Creature City",
+      "item.magitech_era_resources.creature_city": "Creature City",
+      "subtitles.vyletpony_girlswhoarewizards_8creaturecity": "Vylet Pony disc playing",
       "item.magitech_era_resources.bit_of_a_monster": "Bit Of A Monster",
+      "item.magitech_era_resources.facing_oblivion_to_become_the_lode_star.desc": "Vylet Pony - Facing Oblivion To Become The Lode Star",
+      "item.magitech_era_resources.reflected_in_the_eyes_of_the_cavern_lurker": "Reflected In The Eyes Of The Cavern Lurker",
       "item.magitech_era_resources.mine_nice_2_me.desc": "Bladee - Mine Nice 2 Me (Vylet Pony Parody)",
       "item.magitech_era_resources.simple_pony": "Simple Pony",
-      "item.magitech_era_resources.no_matter_what_2021": "No Matter What (2021)",
+      "subtitles.vyletpony_girlswhoarewizards_10sacreddragon": "Vylet Pony disc playing",
+      "item.magitech_era_resources.in_the_name_of_friendship.desc": "Vylet Pony - In The Name Of Friendship",
       "subtitles.vyletpony_everythingglimmer": "Vylet Pony disc playing",
+      "item.magitech_era_resources.sacred_dragon": "Sacred Dragon",
       "item.magitech_era_resources.everything_glimmer": "Everything Glimmer",
+      "item.magitech_era_resources.girls_who_are_wizards": "Girls Who Are Wizards",
       "item.magitech_era_resources.fuck_marry_kill": "FUCK MARRY KILL",
       "item.magitech_era_resources.simple_pony.desc": "Vylet Pony - Simple Pony",
-      "item.magitech_era_resources.in_a_rush_2023": "In a Rush (2023)",
       "item_group.magitech_era_resources.magitech_era_creative_tab": "Magitech Era",
-      "item.magitech_era_resources.mine_nice_2_me": "Mine Nice 2 Me",
+      "item.magitech_era_resources.mine_nice_2_me": "Mine Nice 2 Me (Vylet Pony Parody)",
+      "subtitles.vyletpony_girlswhoarewizards": "",
+      "subtitles.vyletpony_girlswhoarewizards_9": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_8": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_10": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_5": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_13": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_4": "Vylet Pony disc playing",
+      "item.magitech_era_resources.the_story_of_dj_goober": "The Story Of DJ Goober",
+      "item.magitech_era_resources.facing_oblivion_to_become_the_lode_star": "Facing Oblivion To Become The Lode Star",
+      "subtitles.vyletpony_bitofamonster": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_7": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_11": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_3thequeenisback": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_6": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_12": "Vylet Pony disc playing",
+      "item.magitech_era_resources.musicians_of_ponyville": "Musicians Of Ponyville",
+      "item.magitech_era_resources.the_wizard_of_wubz.desc": "Vylet Pony - The Wizard Of Wubz (Wub Anthem)",
+      "subtitles.vyletpony_girlswhoarewizards_6musiciansofponyville": "Vylet Pony disc playing",
+      "subtitles.vyletpony_single_inarush2023": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_9potionseller": "Vylet Pony disc playing",
+      "subtitles.vyletpony_minenice2me": "Vylet Pony disc playing",
+      "item.magitech_era_resources.the_queen_is_back.desc": "Vylet Pony - The Queen Is Back",
+      "item.magitech_era_resources.bit_of_a_monster.desc": "Vylet Pony - Bit of a Monster",
+      "item.magitech_era_resources.in_a_rush_2023.desc": "Vylet Pony - In a Rush (2023)",
+      "subtitles.vyletpony_single_bitofamonster": "Vylet Pony disc playing",
+      "item.magitech_era_resources.no_matter_what_2021.desc": "Vylet Pony - No Matter What (2021)",
+      "item.magitech_era_resources.battle_against_the_banished_sorcerer_knight_stinklebug": "Battle! Against The Banished Sorcerer Knight, Stinklebug",
+      "block.quark.stick_block": "Faggot",
+      "item.magitech_era_resources.theres_a_menu_theme_nestled_within_us_all": "Theres A Menu Theme Nestled Within Us All",
+      "subtitles.vyletpony_girlswhoarewizards_4thewizardofwubz-wubanthem-": "Vylet Pony disc playing",
+      "item.magitech_era_resources.potion_seller.desc": "Vylet Pony - Potion Seller",
+      "item.magitech_era_resources.sacred_dragon.desc": "Vylet Pony - Sacred Dragon",
+      "item.magitech_era_resources.no_matter_what_2021": "No Matter What (2021)",
+      "item.magitech_era_resources.the_queen_is_back": "The Queen Is Back",
+      "item.magitech_era_resources.battle_against_the_banished_sorcerer_knight_stinklebug.desc": "Vylet Pony - Battle! Against The Banished Sorcerer Knight, Stinklebug",
+      "item.magitech_era_resources.theres_a_menu_theme_nestled_within_us_all.desc": "Vylet Pony - Theres A Menu Theme Nestled Within Us All",
+      "item.magitech_era_resources.musicians_of_ponyville.desc": "Vylet Pony - Musicians Of Ponyville",
+      "item.magitech_era_resources.potion_seller": "Potion Seller",
+      "item.magitech_era_resources.in_the_name_of_friendship": "In The Name Of Friendship",
+      "item.magitech_era_resources.the_wizard_of_wubz": "The Wizard Of Wubz (Wub Anthem)",
+      "item.magitech_era_resources.in_a_rush_2023": "In a Rush (2023)",
       "subtitles.vyletpony_single_wedoalittletrolling": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_2thestoryofdjgoober": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_1girlswhoarewizards": "Vylet Pony disc playing",
       "subtitles.vyletpony_single_fuckmarrykill": "Vylet Pony disc playing",
       "subtitles.vyletpony_single_simplepony": "Vylet Pony disc playing",
       "subtitles.vyletpony_single_everythingglimmer": "Vylet Pony disc playing",
+      "subtitles.vyletpony_girlswhoarewizards_5theresamenuthemenestledwithinusall": "Vylet Pony disc playing",
       "item.magitech_era_resources.fuck_marry_kill.desc": "Vylet Pony - FUCK MARRY KILL",
-      "subtitles.vyletpony_bitofamonster": "Vylet Pony disc playing",
-      "subtitles.vyletpony_single_nomatterwhat2021": "Vylet Pony disc playing",
-      "item.magitech_era_resources.we_do_a_little_trolling.desc": "Vylet Pony - We Do a Little Trolling"
+      "item.magitech_era_resources.reflected_in_the_eyes_of_the_cavern_lurker.desc": "Vylet Pony - Reflected In The Eyes Of The Cavern Lurker",
+      "item.magitech_era_resources.we_do_a_little_trolling.desc": "Vylet Pony - We Do a Little Trolling",
+      "subtitles.vyletpony_single_nomatterwhat2021": "Vylet Pony disc playing"
     }
   },
   "foldersRoot": {

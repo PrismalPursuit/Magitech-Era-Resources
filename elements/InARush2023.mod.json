@@ -10,7 +10,10 @@
       "value": "CUSTOM:MagitechEraCreativeTab"
     },
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "Remaster of 11-24-17 release",
+        "06-07-23"
+      ]
     },
     "glowCondition": {
       "fixedValue": false

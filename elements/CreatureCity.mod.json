@@ -1,0 +1,27 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Creature City",
+    "rarity": "RARE",
+    "texture": "girlswhoarewizards",
+    "description": "Vylet Pony - Creature City",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": [
+        "Girls Who Are Wizards - 8",
+        "06-21-24"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_girlswhoarewizards_8"
+    },
+    "lengthInTicks": 5345,
+    "analogOutput": 8
+  }
+}

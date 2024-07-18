@@ -1,0 +1,28 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Musicians Of Ponyville",
+    "rarity": "RARE",
+    "texture": "girlswhoarewizards",
+    "description": "Vylet Pony - Musicians Of Ponyville",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": [
+        "(Horse Friends Pt. 3: Return of the Dreaded Vy Scratch?)",
+        "Girls Who Are Wizards - 6",
+        "07-11-24"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:vyletpony_girlswhoarewizards_6"
+    },
+    "lengthInTicks": 5513,
+    "analogOutput": 6
+  }
+}

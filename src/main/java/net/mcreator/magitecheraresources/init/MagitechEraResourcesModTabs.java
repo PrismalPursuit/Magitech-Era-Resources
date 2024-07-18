@@ -26,5 +26,18 @@ public class MagitechEraResourcesModTabs {
 				tabData.accept(MagitechEraResourcesModItems.IN_A_RUSH_2023.get());
 				tabData.accept(MagitechEraResourcesModItems.NO_MATTER_WHAT_2021.get());
 				tabData.accept(MagitechEraResourcesModItems.WE_DO_A_LITTLE_TROLLING.get());
+				tabData.accept(MagitechEraResourcesModItems.GIRLS_WHO_ARE_WIZARDS.get());
+				tabData.accept(MagitechEraResourcesModItems.THE_STORY_OF_DJ_GOOBER.get());
+				tabData.accept(MagitechEraResourcesModItems.THE_QUEEN_IS_BACK.get());
+				tabData.accept(MagitechEraResourcesModItems.THE_WIZARD_OF_WUBZ.get());
+				tabData.accept(MagitechEraResourcesModItems.THERES_A_MENU_THEME_NESTLED_WITHIN_US_ALL.get());
+				tabData.accept(MagitechEraResourcesModItems.MUSICIANS_OF_PONYVILLE.get());
+				tabData.accept(MagitechEraResourcesModItems.REFLECTED_IN_THE_EYES_OF_THE_CAVERN_LURKER.get());
+				tabData.accept(MagitechEraResourcesModItems.CREATURE_CITY.get());
+				tabData.accept(MagitechEraResourcesModItems.POTION_SELLER.get());
+				tabData.accept(MagitechEraResourcesModItems.SACRED_DRAGON.get());
+				tabData.accept(MagitechEraResourcesModItems.BATTLE_AGAINST_THE_BANISHED_SORCERER_KNIGHT_STINKLEBUG.get());
+				tabData.accept(MagitechEraResourcesModItems.FACING_OBLIVION_TO_BECOME_THE_LODE_STAR.get());
+				tabData.accept(MagitechEraResourcesModItems.IN_THE_NAME_OF_FRIENDSHIP.get());
 			}).withSearchBar().build());
 }

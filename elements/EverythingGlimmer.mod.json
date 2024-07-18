@@ -10,7 +10,10 @@
       "value": "CUSTOM:MagitechEraCreativeTab"
     },
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "Ft. Chi Chi & Namii",
+        "05-27-20"
+      ]
     },
     "glowCondition": {
       "fixedValue": false

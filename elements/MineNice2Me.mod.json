@@ -2,7 +2,7 @@
   "_fv": 60,
   "_type": "musicdisc",
   "definition": {
-    "name": "Mine Nice 2 Me",
+    "name": "Mine Nice 2 Me (Vylet Pony Parody)",
     "rarity": "RARE",
     "texture": "minenicetwome",
     "description": "Bladee - Mine Nice 2 Me (Vylet Pony Parody)",
@@ -10,7 +10,10 @@
       "value": "CUSTOM:MagitechEraCreativeTab"
     },
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "Original by Bladee",
+        "03-02-21"
+      ]
     },
     "glowCondition": {
       "fixedValue": false

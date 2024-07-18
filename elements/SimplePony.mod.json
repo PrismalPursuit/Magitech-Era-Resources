@@ -10,7 +10,9 @@
       "value": "CUSTOM:MagitechEraCreativeTab"
     },
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "07-27-20"
+      ]
     },
     "glowCondition": {
       "fixedValue": false

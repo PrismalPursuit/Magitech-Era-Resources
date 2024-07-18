@@ -70,5 +70,122 @@
         "stream": true
       }
     ]
+  },
+  "vyletpony_girlswhoarewizards_1": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_1",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_1girlswhoarewizards",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_2": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_2",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_2thestoryofdjgoober",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_3": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_3",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_3thequeenisback",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_4": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_4",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_4thewizardofwubz-wubanthem-",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_5": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_5",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_5theresamenuthemenestledwithinusall",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_6": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_6",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_6musiciansofponyville",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_7": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_7",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_7reflectedintheeyesofthecavernlurker",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_8": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_8",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_8creaturecity",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_9": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_9",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_9potionseller",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_11": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_11",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_11battleagainstthebanishedsorcererknightstinklebug",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_12": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_12",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_12facingobliviontobecomethelodestar",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_13": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_13",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_13inthenameoffriendship",
+        "stream": true
+      }
+    ]
+  },
+  "vyletpony_girlswhoarewizards_10": {
+    "subtitle": "subtitles.vyletpony_girlswhoarewizards_10",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:vyletpony_girlswhoarewizards_10sacreddragon",
+        "stream": true
+      }
+    ]
   }
 }
