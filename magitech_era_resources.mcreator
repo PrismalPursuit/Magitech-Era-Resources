@@ -332,19 +332,6 @@
       }
     },
     {
-      "name": "Charcoal",
-      "type": "recipe",
-      "sortid": 26,
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "charcoal",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/charcoal.json"
-        ]
-      }
-    },
-    {
       "name": "MapEdit",
       "type": "recipe",
       "sortid": 27,
@@ -354,6 +341,20 @@
       "metadata": {
         "files": [
           "src/main/resources/data/minecraft/recipes/map.json"
+        ]
+      }
+    },
+    {
+      "name": "WIGGLECORE",
+      "type": "musicdisc",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wigglecore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/wigglecore.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/WIGGLECOREItem.java"
         ]
       }
     }
@@ -527,10 +528,35 @@
       ],
       "category": "record",
       "subtitle": "Vylet Pony disc playing"
+    },
+    {
+      "name": "dingmod_replacementa",
+      "files": [
+        "dingmod_replacementa"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "dingmod_replacementb",
+      "files": [
+        "dingmod_replacementb"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "floorbaba_dirtbird_1",
+      "files": [
+        "floorbaba_dirtbird_1wigglecore"
+      ],
+      "category": "record",
+      "subtitle": "FLOOR BABA disc playing"
     }
   ],
   "tag_elements": {
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:WIGGLECORE",
       "~CUSTOM:InTheNameOfFriendship",
       "~CUSTOM:FacingOblivionToBecomeTheLodeStar",
       "~CUSTOM:BattleAgainstTheBanishedSorcererKnightStinklebug",
@@ -583,7 +609,7 @@
       "item.magitech_era_resources.simple_pony.desc": "Vylet Pony - Simple Pony",
       "item_group.magitech_era_resources.magitech_era_creative_tab": "Magitech Era",
       "item.magitech_era_resources.mine_nice_2_me": "Mine Nice 2 Me (Vylet Pony Parody)",
-      "subtitles.vyletpony_girlswhoarewizards": "",
+      "subtitles.vyletpony_girlswhoarewizards": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_9": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_8": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_10": "Vylet Pony disc playing",
@@ -610,20 +636,24 @@
       "subtitles.vyletpony_single_bitofamonster": "Vylet Pony disc playing",
       "item.magitech_era_resources.no_matter_what_2021.desc": "Vylet Pony - No Matter What (2021)",
       "item.magitech_era_resources.battle_against_the_banished_sorcerer_knight_stinklebug": "Battle! Against The Banished Sorcerer Knight, Stinklebug",
-      "block.quark.stick_block": "Faggot",
       "item.magitech_era_resources.theres_a_menu_theme_nestled_within_us_all": "Theres A Menu Theme Nestled Within Us All",
       "subtitles.vyletpony_girlswhoarewizards_4thewizardofwubz-wubanthem-": "Vylet Pony disc playing",
+      "item.magitech_era_resources.wigglecore.desc": "FLOOR BABA - WIGGLECORE",
+      "subtitles.dingmod_replacement": "",
       "item.magitech_era_resources.potion_seller.desc": "Vylet Pony - Potion Seller",
       "item.magitech_era_resources.sacred_dragon.desc": "Vylet Pony - Sacred Dragon",
       "item.magitech_era_resources.no_matter_what_2021": "No Matter What (2021)",
       "item.magitech_era_resources.the_queen_is_back": "The Queen Is Back",
       "item.magitech_era_resources.battle_against_the_banished_sorcerer_knight_stinklebug.desc": "Vylet Pony - Battle! Against The Banished Sorcerer Knight, Stinklebug",
+      "subtitles.dingmod_replacementa": "",
       "item.magitech_era_resources.theres_a_menu_theme_nestled_within_us_all.desc": "Vylet Pony - Theres A Menu Theme Nestled Within Us All",
+      "subtitles.dingmod_replacementb": "",
       "item.magitech_era_resources.musicians_of_ponyville.desc": "Vylet Pony - Musicians Of Ponyville",
       "item.magitech_era_resources.potion_seller": "Potion Seller",
       "item.magitech_era_resources.in_the_name_of_friendship": "In The Name Of Friendship",
       "item.magitech_era_resources.the_wizard_of_wubz": "The Wizard Of Wubz (Wub Anthem)",
       "item.magitech_era_resources.in_a_rush_2023": "In a Rush (2023)",
+      "subtitles.floorbaba_dirtbird_1": "FLOOR BABA disc playing",
       "subtitles.vyletpony_single_wedoalittletrolling": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_2thestoryofdjgoober": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_1girlswhoarewizards": "Vylet Pony disc playing",
@@ -634,7 +664,8 @@
       "item.magitech_era_resources.fuck_marry_kill.desc": "Vylet Pony - FUCK MARRY KILL",
       "item.magitech_era_resources.reflected_in_the_eyes_of_the_cavern_lurker.desc": "Vylet Pony - Reflected In The Eyes Of The Cavern Lurker",
       "item.magitech_era_resources.we_do_a_little_trolling.desc": "Vylet Pony - We Do a Little Trolling",
-      "subtitles.vyletpony_single_nomatterwhat2021": "Vylet Pony disc playing"
+      "subtitles.vyletpony_single_nomatterwhat2021": "Vylet Pony disc playing",
+      "item.magitech_era_resources.wigglecore": "WIGGLECORE"
     }
   },
   "foldersRoot": {

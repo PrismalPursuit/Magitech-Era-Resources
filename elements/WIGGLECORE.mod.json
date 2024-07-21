@@ -1,0 +1,27 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "WIGGLECORE",
+    "rarity": "RARE",
+    "texture": "dirtbird",
+    "description": "FLOOR BABA - WIGGLECORE",
+    "creativeTab": {
+      "value": "CUSTOM:MagitechEraCreativeTab"
+    },
+    "specialInformation": {
+      "fixedValue": [
+        "DIRT BIRD - 1",
+        "01-01-17"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:floorbaba_dirtbird_1"
+    },
+    "lengthInTicks": 2216,
+    "analogOutput": 1
+  }
+}

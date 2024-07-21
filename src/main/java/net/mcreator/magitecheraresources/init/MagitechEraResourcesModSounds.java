@@ -57,4 +57,7 @@ public class MagitechEraResourcesModSounds {
 			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_13")));
 	public static final RegistryObject<SoundEvent> VYLETPONY_GIRLSWHOAREWIZARDS_10 = REGISTRY.register("vyletpony_girlswhoarewizards_10",
 			() -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "vyletpony_girlswhoarewizards_10")));
+	public static final RegistryObject<SoundEvent> DINGMOD_REPLACEMENTA = REGISTRY.register("dingmod_replacementa", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "dingmod_replacementa")));
+	public static final RegistryObject<SoundEvent> DINGMOD_REPLACEMENTB = REGISTRY.register("dingmod_replacementb", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "dingmod_replacementb")));
+	public static final RegistryObject<SoundEvent> FLOORBABA_DIRTBIRD_1 = REGISTRY.register("floorbaba_dirtbird_1", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "floorbaba_dirtbird_1")));
 }

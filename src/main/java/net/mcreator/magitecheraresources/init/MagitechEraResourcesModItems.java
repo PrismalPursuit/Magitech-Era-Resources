@@ -11,6 +11,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.magitecheraresources.item.WeDoALittleTrollingItem;
+import net.mcreator.magitecheraresources.item.WIGGLECOREItem;
 import net.mcreator.magitecheraresources.item.TheresAMenuThemeNestledWithinUsAllItem;
 import net.mcreator.magitecheraresources.item.TheWizardOfWubzItem;
 import net.mcreator.magitecheraresources.item.TheStoryOfDjGooberItem;
@@ -56,6 +57,7 @@ public class MagitechEraResourcesModItems {
 	public static final RegistryObject<Item> BATTLE_AGAINST_THE_BANISHED_SORCERER_KNIGHT_STINKLEBUG = REGISTRY.register("battle_against_the_banished_sorcerer_knight_stinklebug", () -> new BattleAgainstTheBanishedSorcererKnightStinklebugItem());
 	public static final RegistryObject<Item> FACING_OBLIVION_TO_BECOME_THE_LODE_STAR = REGISTRY.register("facing_oblivion_to_become_the_lode_star", () -> new FacingOblivionToBecomeTheLodeStarItem());
 	public static final RegistryObject<Item> IN_THE_NAME_OF_FRIENDSHIP = REGISTRY.register("in_the_name_of_friendship", () -> new InTheNameOfFriendshipItem());
+	public static final RegistryObject<Item> WIGGLECORE = REGISTRY.register("wigglecore", () -> new WIGGLECOREItem());
 	// Start of user code block custom items
 	// End of user code block custom items
 }

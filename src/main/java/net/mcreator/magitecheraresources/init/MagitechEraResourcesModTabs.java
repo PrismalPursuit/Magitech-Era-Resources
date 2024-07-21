@@ -39,5 +39,6 @@ public class MagitechEraResourcesModTabs {
 				tabData.accept(MagitechEraResourcesModItems.BATTLE_AGAINST_THE_BANISHED_SORCERER_KNIGHT_STINKLEBUG.get());
 				tabData.accept(MagitechEraResourcesModItems.FACING_OBLIVION_TO_BECOME_THE_LODE_STAR.get());
 				tabData.accept(MagitechEraResourcesModItems.IN_THE_NAME_OF_FRIENDSHIP.get());
+				tabData.accept(MagitechEraResourcesModItems.WIGGLECORE.get());
 			}).withSearchBar().build());
 }

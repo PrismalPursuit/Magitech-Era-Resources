@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pink_dye"
+    },
+    "1": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "2": {
+      "item": "minecraft:black_dye"
+    },
+    "3": {
+      "item": "minecraft:white_dye"
+    },
+    "4": {
+      "item": "minecraft:pink_dye"
+    },
+    "5": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "6": {
+      "item": "minecraft:pink_dye"
+    },
+    "7": {
+      "item": "decorative_lgbt_wall_flags:pridewallflag"
+    },
+    "8": {
+      "item": "minecraft:brown_dye"
+    }
+  },
+  "result": {
+    "item": "decorative_lgbt_wall_flags:progressivewallflag",
+    "count": 1
+  }
+}

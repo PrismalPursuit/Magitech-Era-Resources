@@ -187,5 +187,30 @@
         "stream": true
       }
     ]
+  },
+  "dingmod_replacementa": {
+    "sounds": [
+      {
+        "name": "magitech_era_resources:dingmod_replacementa",
+        "stream": false
+      }
+    ]
+  },
+  "dingmod_replacementb": {
+    "sounds": [
+      {
+        "name": "magitech_era_resources:dingmod_replacementb",
+        "stream": false
+      }
+    ]
+  },
+  "floorbaba_dirtbird_1": {
+    "subtitle": "subtitles.floorbaba_dirtbird_1",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:floorbaba_dirtbird_1wigglecore",
+        "stream": true
+      }
+    ]
   }
 }
