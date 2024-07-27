@@ -1,0 +1,29 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "KATAMARI",
+    "rarity": "RARE",
+    "texture": "femtanyl_chaser",
+    "description": "Femtanyl - KATAMARI",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "CHASER - 4",
+        "9-7-2023"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:femtanyl_chaser_4"
+    },
+    "lengthInTicks": 3160,
+    "analogOutput": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "P3T",
+    "rarity": "RARE",
+    "texture": "femtanyl_chaser",
+    "description": "Femtanyl - P3T",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "CHASER - 2",
+        "9-7-2023"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:femtanyl_chaser_2"
+    },
+    "lengthInTicks": 2040,
+    "analogOutput": 2
+  }
+}

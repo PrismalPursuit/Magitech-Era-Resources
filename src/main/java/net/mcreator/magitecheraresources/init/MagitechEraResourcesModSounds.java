@@ -60,4 +60,10 @@ public class MagitechEraResourcesModSounds {
 	public static final RegistryObject<SoundEvent> DINGMOD_REPLACEMENTA = REGISTRY.register("dingmod_replacementa", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "dingmod_replacementa")));
 	public static final RegistryObject<SoundEvent> DINGMOD_REPLACEMENTB = REGISTRY.register("dingmod_replacementb", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "dingmod_replacementb")));
 	public static final RegistryObject<SoundEvent> FLOORBABA_DIRTBIRD_1 = REGISTRY.register("floorbaba_dirtbird_1", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "floorbaba_dirtbird_1")));
+	public static final RegistryObject<SoundEvent> FEMTANYL_CHASER_1 = REGISTRY.register("femtanyl_chaser_1", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "femtanyl_chaser_1")));
+	public static final RegistryObject<SoundEvent> FEMTANYL_CHASER_2 = REGISTRY.register("femtanyl_chaser_2", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "femtanyl_chaser_2")));
+	public static final RegistryObject<SoundEvent> FEMTANYL_CHASER_3 = REGISTRY.register("femtanyl_chaser_3", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "femtanyl_chaser_3")));
+	public static final RegistryObject<SoundEvent> FEMTANYL_CHASER_4 = REGISTRY.register("femtanyl_chaser_4", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "femtanyl_chaser_4")));
+	public static final RegistryObject<SoundEvent> FEMTANYL_CHASER_5 = REGISTRY.register("femtanyl_chaser_5", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "femtanyl_chaser_5")));
+	public static final RegistryObject<SoundEvent> FEMTANYL_CHASER_6 = REGISTRY.register("femtanyl_chaser_6", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("magitech_era_resources", "femtanyl_chaser_6")));
 }

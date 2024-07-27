@@ -212,5 +212,59 @@
         "stream": true
       }
     ]
+  },
+  "femtanyl_chaser_1": {
+    "subtitle": "subtitles.femtanyl_chaser_1",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:femtanyl_chaser_01",
+        "stream": true
+      }
+    ]
+  },
+  "femtanyl_chaser_2": {
+    "subtitle": "subtitles.femtanyl_chaser_2",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:femtanyl_chaser_02",
+        "stream": true
+      }
+    ]
+  },
+  "femtanyl_chaser_3": {
+    "subtitle": "subtitles.femtanyl_chaser_3",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:femtanyl_chaser_03",
+        "stream": true
+      }
+    ]
+  },
+  "femtanyl_chaser_4": {
+    "subtitle": "subtitles.femtanyl_chaser_4",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:femtanyl_chaser_04",
+        "stream": true
+      }
+    ]
+  },
+  "femtanyl_chaser_5": {
+    "subtitle": "subtitles.femtanyl_chaser_5",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:femtanyl_chaser_05",
+        "stream": true
+      }
+    ]
+  },
+  "femtanyl_chaser_6": {
+    "subtitle": "subtitles.femtanyl_chaser_6",
+    "sounds": [
+      {
+        "name": "magitech_era_resources:femtanyl_chaser_06",
+        "stream": true
+      }
+    ]
   }
 }

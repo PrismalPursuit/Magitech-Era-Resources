@@ -40,5 +40,11 @@ public class MagitechEraResourcesModTabs {
 				tabData.accept(MagitechEraResourcesModItems.FACING_OBLIVION_TO_BECOME_THE_LODE_STAR.get());
 				tabData.accept(MagitechEraResourcesModItems.IN_THE_NAME_OF_FRIENDSHIP.get());
 				tabData.accept(MagitechEraResourcesModItems.WIGGLECORE.get());
+				tabData.accept(MagitechEraResourcesModItems.ACTRIGHT.get());
+				tabData.accept(MagitechEraResourcesModItems.PET.get());
+				tabData.accept(MagitechEraResourcesModItems.PUSHURTEMPRR.get());
+				tabData.accept(MagitechEraResourcesModItems.KATAMARI.get());
+				tabData.accept(MagitechEraResourcesModItems.MURDEREVERYONEUKNOW.get());
+				tabData.accept(MagitechEraResourcesModItems.GIRLHELL_1999.get());
 			}).withSearchBar().build());
 }

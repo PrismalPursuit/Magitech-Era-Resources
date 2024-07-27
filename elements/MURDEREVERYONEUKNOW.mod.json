@@ -1,0 +1,30 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "MURDER EVERY 1 U KNOW!",
+    "rarity": "RARE",
+    "texture": "femtanyl_chaser",
+    "description": "Femtanyl - MURDER EVERY 1 U KNOW!",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "CHASER - 5",
+        "9-7-2023",
+        "Feat. takihasdied"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:femtanyl_chaser_5"
+    },
+    "lengthInTicks": 2500,
+    "analogOutput": 5
+  }
+}

@@ -20,18 +20,24 @@ import net.mcreator.magitecheraresources.item.SimplePonyItem;
 import net.mcreator.magitecheraresources.item.SacredDragonItem;
 import net.mcreator.magitecheraresources.item.ReflectedInTheEyesOfTheCavernLurkerItem;
 import net.mcreator.magitecheraresources.item.PotionSellerItem;
+import net.mcreator.magitecheraresources.item.PUSHURTEMPRRItem;
+import net.mcreator.magitecheraresources.item.PETItem;
 import net.mcreator.magitecheraresources.item.NoMatterWhat2021Item;
 import net.mcreator.magitecheraresources.item.MusiciansOfPonyvilleItem;
 import net.mcreator.magitecheraresources.item.MineNice2MeItem;
+import net.mcreator.magitecheraresources.item.MURDEREVERYONEUKNOWItem;
+import net.mcreator.magitecheraresources.item.KATAMARIItem;
 import net.mcreator.magitecheraresources.item.InTheNameOfFriendshipItem;
 import net.mcreator.magitecheraresources.item.InARush2023Item;
 import net.mcreator.magitecheraresources.item.GirlsWhoAreWizardsItem;
+import net.mcreator.magitecheraresources.item.GIRLHELL1999Item;
 import net.mcreator.magitecheraresources.item.FuckMarryKillItem;
 import net.mcreator.magitecheraresources.item.FacingOblivionToBecomeTheLodeStarItem;
 import net.mcreator.magitecheraresources.item.EverythingGlimmerItem;
 import net.mcreator.magitecheraresources.item.CreatureCityItem;
 import net.mcreator.magitecheraresources.item.BitOfAMonsterItem;
 import net.mcreator.magitecheraresources.item.BattleAgainstTheBanishedSorcererKnightStinklebugItem;
+import net.mcreator.magitecheraresources.item.ActrightItem;
 import net.mcreator.magitecheraresources.MagitechEraResourcesMod;
 
 public class MagitechEraResourcesModItems {
@@ -58,6 +64,12 @@ public class MagitechEraResourcesModItems {
 	public static final RegistryObject<Item> FACING_OBLIVION_TO_BECOME_THE_LODE_STAR = REGISTRY.register("facing_oblivion_to_become_the_lode_star", () -> new FacingOblivionToBecomeTheLodeStarItem());
 	public static final RegistryObject<Item> IN_THE_NAME_OF_FRIENDSHIP = REGISTRY.register("in_the_name_of_friendship", () -> new InTheNameOfFriendshipItem());
 	public static final RegistryObject<Item> WIGGLECORE = REGISTRY.register("wigglecore", () -> new WIGGLECOREItem());
+	public static final RegistryObject<Item> ACTRIGHT = REGISTRY.register("actright", () -> new ActrightItem());
+	public static final RegistryObject<Item> PET = REGISTRY.register("pet", () -> new PETItem());
+	public static final RegistryObject<Item> PUSHURTEMPRR = REGISTRY.register("pushurtemprr", () -> new PUSHURTEMPRRItem());
+	public static final RegistryObject<Item> KATAMARI = REGISTRY.register("katamari", () -> new KATAMARIItem());
+	public static final RegistryObject<Item> MURDEREVERYONEUKNOW = REGISTRY.register("murdereveryoneuknow", () -> new MURDEREVERYONEUKNOWItem());
+	public static final RegistryObject<Item> GIRLHELL_1999 = REGISTRY.register("girlhell_1999", () -> new GIRLHELL1999Item());
 	// Start of user code block custom items
 	// End of user code block custom items
 }

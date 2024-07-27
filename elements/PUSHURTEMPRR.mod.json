@@ -1,0 +1,29 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "PUSH UR T3MPRR",
+    "rarity": "RARE",
+    "texture": "femtanyl_chaser",
+    "description": "Femtanyl - PUSH UR T3MPRR",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "CHASER - 3",
+        "9-7-2023"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:femtanyl_chaser_3"
+    },
+    "lengthInTicks": 2960,
+    "analogOutput": 3
+  }
+}

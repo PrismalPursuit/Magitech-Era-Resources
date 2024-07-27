@@ -331,6 +331,84 @@
           "src/main/resources/assets/magitech_era_resources/models/item/wigglecore.json"
         ]
       }
+    },
+    {
+      "name": "Actright",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "actright",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/ActrightItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/actright.json"
+        ]
+      }
+    },
+    {
+      "name": "PET",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/PETItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/pet.json"
+        ]
+      }
+    },
+    {
+      "name": "PUSHURTEMPRR",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pushurtemprr",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/pushurtemprr.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/PUSHURTEMPRRItem.java"
+        ]
+      }
+    },
+    {
+      "name": "KATAMARI",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "katamari",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/KATAMARIItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/katamari.json"
+        ]
+      }
+    },
+    {
+      "name": "MURDEREVERYONEUKNOW",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "murdereveryoneuknow",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/item/MURDEREVERYONEUKNOWItem.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/murdereveryoneuknow.json"
+        ]
+      }
+    },
+    {
+      "name": "GIRLHELL1999",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "girlhell_1999",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/girlhell_1999.json",
+          "src/main/java/net/mcreator/magitecheraresources/item/GIRLHELL1999Item.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -526,10 +604,63 @@
       ],
       "category": "record",
       "subtitle": "FLOOR BABA disc playing"
+    },
+    {
+      "name": "femtanyl_chaser_1",
+      "files": [
+        "femtanyl_chaser_01"
+      ],
+      "category": "record",
+      "subtitle": "Femtanyl disc playing"
+    },
+    {
+      "name": "femtanyl_chaser_2",
+      "files": [
+        "femtanyl_chaser_02"
+      ],
+      "category": "record",
+      "subtitle": "Femtanyl disc playing"
+    },
+    {
+      "name": "femtanyl_chaser_3",
+      "files": [
+        "femtanyl_chaser_03"
+      ],
+      "category": "record",
+      "subtitle": "Femtanyl disc playing"
+    },
+    {
+      "name": "femtanyl_chaser_4",
+      "files": [
+        "femtanyl_chaser_04"
+      ],
+      "category": "record",
+      "subtitle": "Femtanyl disc playing"
+    },
+    {
+      "name": "femtanyl_chaser_5",
+      "files": [
+        "femtanyl_chaser_05"
+      ],
+      "category": "record",
+      "subtitle": "Femtanyl disc playing"
+    },
+    {
+      "name": "femtanyl_chaser_6",
+      "files": [
+        "femtanyl_chaser_06"
+      ],
+      "category": "record",
+      "subtitle": "Femtanyl disc playing"
     }
   ],
   "tag_elements": {
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:GIRLHELL1999",
+      "~CUSTOM:MURDEREVERYONEUKNOW",
+      "~CUSTOM:KATAMARI",
+      "~CUSTOM:PUSHURTEMPRR",
+      "~CUSTOM:Actright",
       "~CUSTOM:GirlHell1999",
       "~CUSTOM:MurderEveryoneUKnow",
       "~CUSTOM:Katamari",
@@ -564,8 +695,8 @@
   "language_map": {
     "en_us": {
       "subtitles.vyletpony_single_minenice2me": "Vylet Pony disc playing",
-      "item.magitech_era_resources.we_do_a_little_trolling": "We Do a Little Trolling",
       "item.magitech_era_resources.murder_everyone_u_know": "MURDER EVERY 1 U KNOW!",
+      "item.magitech_era_resources.we_do_a_little_trolling": "We Do a Little Trolling",
       "subtitles.vyletpony_girlswhoarewizards_7reflectedintheeyesofthecavernlurke": "Vylet Pony disc playing",
       "item.magitech_era_resources.girl_hell_1999": "GIRL HELL 1999",
       "item.magitech_era_resources.girl_hell_1999.desc": "Femtanyl - GIRL HELL 1999",
@@ -575,13 +706,14 @@
       "item.magitech_era_resources.facing_oblivion_to_become_the_lode_star.desc": "Vylet Pony - Facing Oblivion To Become The Lode Star",
       "item.magitech_era_resources.reflected_in_the_eyes_of_the_cavern_lurker": "Reflected In The Eyes Of The Cavern Lurker",
       "item.magitech_era_resources.in_the_name_of_friendship.desc": "Vylet Pony - In The Name Of Friendship",
-      "item.magitech_era_resources.sacred_dragon": "Sacred Dragon",
       "item.magitech_era_resources.katamari": "KATAMARI",
+      "item.magitech_era_resources.sacred_dragon": "Sacred Dragon",
       "item.magitech_era_resources.everything_glimmer": "Everything Glimmer",
       "item.magitech_era_resources.fuck_marry_kill": "FUCK MARRY KILL",
       "item.magitech_era_resources.simple_pony.desc": "Vylet Pony - Simple Pony",
       "item_group.magitech_era_resources.magitech_era_creative_tab": "Magitech Era",
       "item.magitech_era_resources.mine_nice_2_me": "Mine Nice 2 Me (Vylet Pony Parody)",
+      "item.magitech_era_resources.girlhell_1999": "GIRL HELL 1999",
       "item.magitech_era_resources.pet": "P3T",
       "subtitles.vyletpony_girlswhoarewizards": "Vylet Pony disc playing",
       "item.magitech_era_resources.the_story_of_dj_goober": "The Story Of DJ Goober",
@@ -591,8 +723,9 @@
       "subtitles.vyletpony_minenice2me": "Vylet Pony disc playing",
       "item.magitech_era_resources.murder_everyone_u_know.desc": "Femtanyl - MURDER EVERY 1 U KNOW!",
       "item.magitech_era_resources.bit_of_a_monster.desc": "Vylet Pony - Bit of a Monster",
-      "subtitles.vyletpony_single_bitofamonster": "Vylet Pony disc playing",
       "item.magitech_era_resources.katamari.desc": "Femtanyl - KATAMARI",
+      "subtitles.vyletpony_single_bitofamonster": "Vylet Pony disc playing",
+      "item.magitech_era_resources.murdereveryoneuknow": "MURDER EVERY 1 U KNOW!",
       "item.magitech_era_resources.battle_against_the_banished_sorcerer_knight_stinklebug": "Battle! Against The Banished Sorcerer Knight, Stinklebug",
       "subtitles.vyletpony_girlswhoarewizards_4thewizardofwubz-wubanthem-": "Vylet Pony disc playing",
       "item.magitech_era_resources.wigglecore.desc": "FLOOR BABA - WIGGLECORE",
@@ -602,6 +735,7 @@
       "item.magitech_era_resources.potion_seller": "Potion Seller",
       "item.magitech_era_resources.actright": "ACT RIGHT",
       "item.magitech_era_resources.in_the_name_of_friendship": "In The Name Of Friendship",
+      "item.magitech_era_resources.murdereveryoneuknow.desc": "Femtanyl - MURDER EVERY 1 U KNOW!",
       "item.magitech_era_resources.in_a_rush_2023": "In a Rush (2023)",
       "subtitles.floorbaba_dirtbird_1": "FLOOR BABA disc playing",
       "subtitles.vyletpony_single_wedoalittletrolling": "Vylet Pony disc playing",
@@ -615,6 +749,7 @@
       "subtitles.vyletpony_girlswhoarewizards_3": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_2": "Vylet Pony disc playing",
       "item.magitech_era_resources.everything_glimmer.desc": "Vylet Pony - Everything Glimmer",
+      "item.magitech_era_resources.girlhell_1999.desc": "Femtanyl - GIRL HELL 1999",
       "item.magitech_era_resources.girls_who_are_wizards.desc": "Vylet Pony - Girls Who Are Wizards",
       "item.magitech_era_resources.push_ur_temprr": "PUSH UR T3MPRR",
       "subtitles.vyletpony_girlswhoarewizards_8creaturecity": "Vylet Pony disc playing",
@@ -625,6 +760,7 @@
       "subtitles.vyletpony_girlswhoarewizards_10sacreddragon": "Vylet Pony disc playing",
       "subtitles.vyletpony_everythingglimmer": "Vylet Pony disc playing",
       "item.magitech_era_resources.girls_who_are_wizards": "Girls Who Are Wizards",
+      "item.magitech_era_resources.pushurtemprr.desc": "Femtanyl - PUSH UR T3MPRR",
       "subtitles.vyletpony_girlswhoarewizards_9": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_8": "Vylet Pony disc playing",
       "subtitles.vyletpony_girlswhoarewizards_10": "Vylet Pony disc playing",
@@ -655,6 +791,7 @@
       "subtitles.dingmod_replacementb": "",
       "subtitles.femtanyl_chaser_2": "Femtanyl disc playing",
       "subtitles.femtanyl_chaser_1": "Femtanyl disc playing",
+      "item.magitech_era_resources.pushurtemprr": "PUSH UR T3MPRR",
       "item.magitech_era_resources.musicians_of_ponyville.desc": "Vylet Pony - Musicians Of Ponyville",
       "subtitles.femtanyl_chaser_6": "Femtanyl disc playing",
       "subtitles.femtanyl_chaser_5": "Femtanyl disc playing",
