@@ -1,14 +1,16 @@
 {
-  "_fv": 60,
+  "_fv": 66,
   "_type": "musicdisc",
   "definition": {
     "name": "Girls Who Are Wizards",
     "rarity": "RARE",
     "texture": "girlswhoarewizards",
     "description": "Vylet Pony - Girls Who Are Wizards",
-    "creativeTab": {
-      "value": "CUSTOM:MagitechEraCreativeTab"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
     "specialInformation": {
       "fixedValue": [
         "Girls Who Are Wizards - 1",

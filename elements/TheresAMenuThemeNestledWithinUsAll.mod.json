@@ -1,14 +1,16 @@
 {
-  "_fv": 60,
+  "_fv": 66,
   "_type": "musicdisc",
   "definition": {
     "name": "Theres A Menu Theme Nestled Within Us All",
     "rarity": "RARE",
     "texture": "girlswhoarewizards",
     "description": "Vylet Pony - Theres A Menu Theme Nestled Within Us All",
-    "creativeTab": {
-      "value": "CUSTOM:MagitechEraCreativeTab"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
     "specialInformation": {
       "fixedValue": [
         "Girls Who Are Wizards - 5",

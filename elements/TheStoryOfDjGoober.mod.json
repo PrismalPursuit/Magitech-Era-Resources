@@ -1,14 +1,16 @@
 {
-  "_fv": 60,
+  "_fv": 66,
   "_type": "musicdisc",
   "definition": {
     "name": "The Story Of DJ Goober",
     "rarity": "RARE",
     "texture": "girlswhoarewizards",
     "description": "Vylet Pony - The Story Of DJ Goober",
-    "creativeTab": {
-      "value": "CUSTOM:MagitechEraCreativeTab"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
     "specialInformation": {
       "fixedValue": [
         "Girls Who Are Wizards - 2",

@@ -4,7 +4,7 @@ license="Not specified"
 
 [[mods]]
 modId="magitech_era_resources"
-version="1.1.0"
+version="1.0.0"
 displayName="Magitech Era Resources"
 displayURL="https://mcreator.net"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
@@ -18,8 +18,11 @@ description="Assets and resources for the Magitech Era modpack."
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1]"
-    ordering="NONE"
+    ordering="AFTER"
     side="BOTH"
 
 
 
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

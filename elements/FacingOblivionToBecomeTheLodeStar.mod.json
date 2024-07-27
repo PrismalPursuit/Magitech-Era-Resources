@@ -1,14 +1,16 @@
 {
-  "_fv": 60,
+  "_fv": 66,
   "_type": "musicdisc",
   "definition": {
     "name": "Facing Oblivion To Become The Lode Star",
     "rarity": "RARE",
     "texture": "girlswhoarewizards",
     "description": "Vylet Pony - Facing Oblivion To Become The Lode Star",
-    "creativeTab": {
-      "value": "CUSTOM:MagitechEraCreativeTab"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MagitechEraCreativeTab"
+      }
+    ],
     "specialInformation": {
       "fixedValue": [
         "Girls Who Are Wizards - 12",

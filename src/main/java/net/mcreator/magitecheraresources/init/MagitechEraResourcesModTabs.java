@@ -18,8 +18,8 @@ public class MagitechEraResourcesModTabs {
 	public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MagitechEraResourcesMod.MODID);
 	public static final RegistryObject<CreativeModeTab> MAGITECH_ERA_CREATIVE_TAB = REGISTRY.register("magitech_era_creative_tab", () -> CreativeModeTab.builder()
 			.title(Component.translatable("item_group.magitech_era_resources.magitech_era_creative_tab")).icon(() -> new ItemStack(MagitechEraResourcesModItems.BIT_OF_A_MONSTER.get())).displayItems((parameters, tabData) -> {
-				tabData.accept(MagitechEraResourcesModItems.BIT_OF_A_MONSTER.get());
 				tabData.accept(MagitechEraResourcesModItems.MINE_NICE_2_ME.get());
+				tabData.accept(MagitechEraResourcesModItems.BIT_OF_A_MONSTER.get());
 				tabData.accept(MagitechEraResourcesModItems.SIMPLE_PONY.get());
 				tabData.accept(MagitechEraResourcesModItems.EVERYTHING_GLIMMER.get());
 				tabData.accept(MagitechEraResourcesModItems.FUCK_MARRY_KILL.get());
