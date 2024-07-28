@@ -409,6 +409,146 @@
           "src/main/java/net/mcreator/magitecheraresources/item/GIRLHELL1999Item.java"
         ]
       }
+    },
+    {
+      "name": "DemigirlFlag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "demigirl_flag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/demigirl_flag.json"
+        ]
+      }
+    },
+    {
+      "name": "DemiboyFlag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "demiboy_flag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/demiboy_flag.json"
+        ]
+      }
+    },
+    {
+      "name": "PolyamorousFlag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "polyamorous_flag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/polyamorous_flag.json"
+        ]
+      }
+    },
+    {
+      "name": "ProgressiveFlag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "progressive_flag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/progressive_flag.json"
+        ]
+      }
+    },
+    {
+      "name": "LgbtWallFlagPolyamorous",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lgbt_wall_flag_polyamorous",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/block/LgbtWallFlagPolyamorousBlock.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/lgbt_wall_flag_polyamorous.json",
+          "src/main/resources/assets/magitech_era_resources/blockstates/lgbt_wall_flag_polyamorous.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/lgbt_wall_flag_polyamorous.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/lgbt_wall_flag_polyamorous.json"
+        ]
+      }
+    },
+    {
+      "name": "LgbtWallFlagDemiboy",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lgbt_wall_flag_demiboy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magitecheraresources/block/LgbtWallFlagDemiboyBlock.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/lgbt_wall_flag_demiboy.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/lgbt_wall_flag_demiboy.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/lgbt_wall_flag_demiboy.json",
+          "src/main/resources/assets/magitech_era_resources/blockstates/lgbt_wall_flag_demiboy.json"
+        ]
+      }
+    },
+    {
+      "name": "LgbtWallFlagDemigirl",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lgbt_wall_flag_demigirl",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/blockstates/lgbt_wall_flag_demigirl.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/lgbt_wall_flag_demigirl.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/lgbt_wall_flag_demigirl.json",
+          "src/main/resources/assets/magitech_era_resources/models/item/lgbt_wall_flag_demigirl.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/LgbtWallFlagDemigirlBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "LgbtWallFlagInclusive",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lgbt_wall_flag_inclusive",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/block/lgbt_wall_flag_inclusive.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/lgbt_wall_flag_inclusive.json",
+          "src/main/resources/assets/magitech_era_resources/blockstates/lgbt_wall_flag_inclusive.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/LgbtWallFlagInclusiveBlock.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/lgbt_wall_flag_inclusive.json"
+        ]
+      }
+    },
+    {
+      "name": "LgbtWallFlagProgressive",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lgbt_wall_flag_progressive",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/lgbt_wall_flag_progressive.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/lgbt_wall_flag_progressive.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/lgbt_wall_flag_progressive.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/LgbtWallFlagProgressiveBlock.java",
+          "src/main/resources/assets/magitech_era_resources/blockstates/lgbt_wall_flag_progressive.json"
+        ]
+      }
+    },
+    {
+      "name": "InclusiveFlag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "inclusive_flag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/inclusive_flag.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -780,8 +920,8 @@
       "item.magitech_era_resources.the_queen_is_back.desc": "Vylet Pony - The Queen Is Back",
       "item.magitech_era_resources.in_a_rush_2023.desc": "Vylet Pony - In a Rush (2023)",
       "item.magitech_era_resources.no_matter_what_2021.desc": "Vylet Pony - No Matter What (2021)",
+      "block.quark.stick_block": "Faggot",
       "item.magitech_era_resources.theres_a_menu_theme_nestled_within_us_all": "Theres A Menu Theme Nestled Within Us All",
-      "subtitles.dingmod_replacement": "",
       "item.magitech_era_resources.potion_seller.desc": "Vylet Pony - Potion Seller",
       "subtitles.femtanyl_chaser_4": "Femtanyl disc playing",
       "item.magitech_era_resources.the_queen_is_back": "The Queen Is Back",

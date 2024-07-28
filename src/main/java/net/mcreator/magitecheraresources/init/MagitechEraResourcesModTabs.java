@@ -46,5 +46,10 @@ public class MagitechEraResourcesModTabs {
 				tabData.accept(MagitechEraResourcesModItems.KATAMARI.get());
 				tabData.accept(MagitechEraResourcesModItems.MURDEREVERYONEUKNOW.get());
 				tabData.accept(MagitechEraResourcesModItems.GIRLHELL_1999.get());
+				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_POLYAMOROUS.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_DEMIBOY.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_DEMIGIRL.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_INCLUSIVE.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_PROGRESSIVE.get().asItem());
 			}).withSearchBar().build());
 }

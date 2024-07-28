@@ -1,0 +1,9 @@
+{
+  "parent": "magitech_era_resources:custom/inclusiveflag",
+  "textures": {
+    "all": "magitech_era_resources:block/inclusiveflag",
+    "particle": "magitech_era_resources:block/inclusiveflag",
+    "0": "magitech_era_resources:block/inclusiveflag"
+  },
+  "render_type": "solid"
+}

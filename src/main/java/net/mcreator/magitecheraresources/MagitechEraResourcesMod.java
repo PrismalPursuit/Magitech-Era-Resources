@@ -20,6 +20,7 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.mcreator.magitecheraresources.init.MagitechEraResourcesModTabs;
 import net.mcreator.magitecheraresources.init.MagitechEraResourcesModSounds;
 import net.mcreator.magitecheraresources.init.MagitechEraResourcesModItems;
+import net.mcreator.magitecheraresources.init.MagitechEraResourcesModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -41,6 +42,7 @@ public class MagitechEraResourcesMod {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MagitechEraResourcesModSounds.REGISTRY.register(bus);
+		MagitechEraResourcesModBlocks.REGISTRY.register(bus);
 
 		MagitechEraResourcesModItems.REGISTRY.register(bus);
 

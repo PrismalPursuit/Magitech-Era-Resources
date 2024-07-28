@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "magitech_era_resources:block/lgbt_wall_flag_demiboy"
+    },
+    "facing=east": {
+      "model": "magitech_era_resources:block/lgbt_wall_flag_demiboy",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "magitech_era_resources:block/lgbt_wall_flag_demiboy",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "magitech_era_resources:block/lgbt_wall_flag_demiboy",
+      "y": 270
+    }
+  }
+}

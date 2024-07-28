@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    },
+    "b": {
+      "item": "minecraft:gray_dye"
+    },
+    "c": {
+      "item": "minecraft:pink_dye"
+    },
+    "d": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "e": {
+      "item": "decorative_lgbt_wall_flags:blankwallflag"
+    }
+  },
+  "result": {
+    "item": "magitech_era_resources:lgbt_wall_flag_demigirl",
+    "count": 1
+  }
+}

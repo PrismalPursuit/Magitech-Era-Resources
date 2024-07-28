@@ -1,0 +1,9 @@
+{
+  "parent": "magitech_era_resources:custom/demiboyflag",
+  "textures": {
+    "all": "magitech_era_resources:block/demiboyflag",
+    "particle": "magitech_era_resources:block/demiboyflag",
+    "0": "magitech_era_resources:block/demiboyflag"
+  },
+  "render_type": "solid"
+}

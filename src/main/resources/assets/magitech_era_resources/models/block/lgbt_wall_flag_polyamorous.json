@@ -1,0 +1,9 @@
+{
+  "parent": "magitech_era_resources:custom/polyamorousflag",
+  "textures": {
+    "all": "magitech_era_resources:block/polyamorousflag",
+    "particle": "magitech_era_resources:block/polyamorousflag",
+    "0": "magitech_era_resources:block/polyamorousflag"
+  },
+  "render_type": "solid"
+}

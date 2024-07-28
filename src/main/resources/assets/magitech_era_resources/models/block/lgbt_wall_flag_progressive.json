@@ -1,0 +1,9 @@
+{
+  "parent": "magitech_era_resources:custom/progressiveflag",
+  "textures": {
+    "all": "magitech_era_resources:block/progressiveflag",
+    "particle": "magitech_era_resources:block/progressiveflag",
+    "0": "magitech_era_resources:block/progressiveflag"
+  },
+  "render_type": "solid"
+}
