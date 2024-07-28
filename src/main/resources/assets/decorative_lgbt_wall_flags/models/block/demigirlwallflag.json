@@ -1,9 +1,0 @@
-{
-  "parent": "decorative_lgbt_wall_flags:custom/lgbt_flag_demigirl",
-  "textures": {
-    "all": "decorative_lgbt_wall_flags:block/lgbt_flag_demigirl",
-    "particle": "decorative_lgbt_wall_flags:block/lgbt_flag_demigirl",
-    "0": "decorative_lgbt_wall_flags:block/lgbt_flag_demigirl"
-  },
-  "render_type": "solid"
-}

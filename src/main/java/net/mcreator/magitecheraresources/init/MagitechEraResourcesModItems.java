@@ -8,7 +8,9 @@ import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
 
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.magitecheraresources.item.WeDoALittleTrollingItem;
 import net.mcreator.magitecheraresources.item.WIGGLECOREItem;
@@ -70,6 +72,15 @@ public class MagitechEraResourcesModItems {
 	public static final RegistryObject<Item> KATAMARI = REGISTRY.register("katamari", () -> new KATAMARIItem());
 	public static final RegistryObject<Item> MURDEREVERYONEUKNOW = REGISTRY.register("murdereveryoneuknow", () -> new MURDEREVERYONEUKNOWItem());
 	public static final RegistryObject<Item> GIRLHELL_1999 = REGISTRY.register("girlhell_1999", () -> new GIRLHELL1999Item());
+	public static final RegistryObject<Item> LGBT_WALL_FLAG_DEMIBOY = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_DEMIBOY);
+	public static final RegistryObject<Item> LGBT_WALL_FLAG_DEMIGIRL = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_DEMIGIRL);
+	public static final RegistryObject<Item> LGBT_WALL_FLAG_INCLUSIVE = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_INCLUSIVE);
+	public static final RegistryObject<Item> LGBT_WALL_FLAG_POLYAMOROUS = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_POLYAMOROUS);
+	public static final RegistryObject<Item> LGBT_WALL_FLAG_PROGRESSIVE = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_PROGRESSIVE);
+
 	// Start of user code block custom items
 	// End of user code block custom items
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
 }

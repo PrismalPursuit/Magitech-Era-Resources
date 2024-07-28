@@ -1,9 +1,0 @@
-{
-  "parent": "decorative_lgbt_wall_flags:custom/lgbt_flag_progressive",
-  "textures": {
-    "all": "decorative_lgbt_wall_flags:block/lgbt_flag_progressive",
-    "particle": "decorative_lgbt_wall_flags:block/lgbt_flag_progressive",
-    "0": "decorative_lgbt_wall_flags:block/lgbt_flag_progressive"
-  },
-  "render_type": "solid"
-}

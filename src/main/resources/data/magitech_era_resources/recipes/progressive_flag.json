@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "abc",
+    "dab",
+    "aef"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pink_dye"
+    },
+    "b": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "c": {
+      "item": "minecraft:black_dye"
+    },
+    "d": {
+      "item": "minecraft:white_dye"
+    },
+    "e": {
+      "item": "decorative_lgbt_wall_flags:pridewallflag"
+    },
+    "f": {
+      "item": "minecraft:brown_dye"
+    }
+  },
+  "result": {
+    "item": "magitech_era_resources:lgbt_wall_flag_progressive",
+    "count": 1
+  }
+}

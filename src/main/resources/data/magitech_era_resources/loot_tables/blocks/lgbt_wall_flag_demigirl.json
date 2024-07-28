@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "magitech_era_resources:blocks/lgbt_wall_flag_demigirl",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "magitech_era_resources:lgbt_wall_flag_demigirl"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "magitech_era_resources:custom/demigirlflag",
+  "textures": {
+    "all": "magitech_era_resources:block/demigirlflag",
+    "particle": "magitech_era_resources:block/demigirlflag",
+    "0": "magitech_era_resources:block/demigirlflag"
+  },
+  "render_type": "solid"
+}

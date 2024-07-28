@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "abb",
+    "cad",
+    "aef"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_dye"
+    },
+    "b": {
+      "item": "minecraft:blue_dye"
+    },
+    "c": {
+      "item": "minecraft:yellow_dye"
+    },
+    "d": {
+      "item": "minecraft:red_dye"
+    },
+    "e": {
+      "item": "decorative_lgbt_wall_flags:blankwallflag"
+    },
+    "f": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "magitech_era_resources:lgbt_wall_flag_polyamorous",
+    "count": 1
+  }
+}
