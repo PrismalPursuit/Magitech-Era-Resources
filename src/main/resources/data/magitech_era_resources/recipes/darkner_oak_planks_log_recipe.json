@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "magitech_era_resources:darkner_oak_log"
+    }
+  ],
+  "result": {
+    "item": "magitech_era_resources:darkner_oak_planks",
+    "count": 4
+  }
+}

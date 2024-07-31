@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "magitech_era_resources:darkner_oak_log"
+    }
+  },
+  "result": {
+    "item": "magitech_era_resources:darkner_oak_wood",
+    "count": 3
+  }
+}

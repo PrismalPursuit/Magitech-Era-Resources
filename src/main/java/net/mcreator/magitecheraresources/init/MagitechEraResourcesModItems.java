@@ -77,6 +77,16 @@ public class MagitechEraResourcesModItems {
 	public static final RegistryObject<Item> LGBT_WALL_FLAG_INCLUSIVE = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_INCLUSIVE);
 	public static final RegistryObject<Item> LGBT_WALL_FLAG_POLYAMOROUS = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_POLYAMOROUS);
 	public static final RegistryObject<Item> LGBT_WALL_FLAG_PROGRESSIVE = block(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_PROGRESSIVE);
+	public static final RegistryObject<Item> DARKNER_OAK_WOOD = block(MagitechEraResourcesModBlocks.DARKNER_OAK_WOOD);
+	public static final RegistryObject<Item> DARKNER_OAK_LOG = block(MagitechEraResourcesModBlocks.DARKNER_OAK_LOG);
+	public static final RegistryObject<Item> DARKNER_OAK_PLANKS = block(MagitechEraResourcesModBlocks.DARKNER_OAK_PLANKS);
+	public static final RegistryObject<Item> DARKNER_OAK_LEAVES = block(MagitechEraResourcesModBlocks.DARKNER_OAK_LEAVES);
+	public static final RegistryObject<Item> DARKNER_OAK_STAIRS = block(MagitechEraResourcesModBlocks.DARKNER_OAK_STAIRS);
+	public static final RegistryObject<Item> DARKNER_OAK_SLAB = block(MagitechEraResourcesModBlocks.DARKNER_OAK_SLAB);
+	public static final RegistryObject<Item> DARKNER_OAK_FENCE = block(MagitechEraResourcesModBlocks.DARKNER_OAK_FENCE);
+	public static final RegistryObject<Item> DARKNER_OAK_FENCE_GATE = block(MagitechEraResourcesModBlocks.DARKNER_OAK_FENCE_GATE);
+	public static final RegistryObject<Item> DARKNER_OAK_PRESSURE_PLATE = block(MagitechEraResourcesModBlocks.DARKNER_OAK_PRESSURE_PLATE);
+	public static final RegistryObject<Item> DARKNER_OAK_BUTTON = block(MagitechEraResourcesModBlocks.DARKNER_OAK_BUTTON);
 
 	// Start of user code block custom items
 	// End of user code block custom items

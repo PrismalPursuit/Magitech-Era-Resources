@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magitech_era_resources:block/darkneroak_log_top",
+    "up": "magitech_era_resources:block/darkneroak_log_top",
+    "north": "magitech_era_resources:block/darkneroak_log_side",
+    "east": "magitech_era_resources:block/darkneroak_log_side",
+    "south": "magitech_era_resources:block/darkneroak_log_side",
+    "west": "magitech_era_resources:block/darkneroak_log_side",
+    "particle": "magitech_era_resources:block/darkneroak_log_top"
+  },
+  "render_type": "solid"
+}

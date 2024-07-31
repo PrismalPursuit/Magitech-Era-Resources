@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "magitech_era_resources:block/darkneroak_planks",
+    "particle": "magitech_era_resources:block/darkneroak_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "magitech_era_resources:block/darkneroak_leaves",
+    "particle": "magitech_era_resources:block/darkneroak_leaves"
+  }
+}

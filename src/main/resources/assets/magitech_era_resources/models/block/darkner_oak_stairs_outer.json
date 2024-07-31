@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "magitech_era_resources:block/darkneroak_planks",
+    "bottom": "magitech_era_resources:block/darkneroak_planks",
+    "top": "magitech_era_resources:block/darkneroak_planks",
+    "side": "magitech_era_resources:block/darkneroak_planks"
+  },
+  "render_type": "solid"
+}

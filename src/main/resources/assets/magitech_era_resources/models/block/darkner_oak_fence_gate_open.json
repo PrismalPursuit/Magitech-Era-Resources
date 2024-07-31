@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "particle": "magitech_era_resources:block/darkneroak_planks",
+    "texture": "magitech_era_resources:block/darkneroak_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "magitech_era_resources:block/darkner_oak_slab"
+    },
+    "type=top": {
+      "model": "magitech_era_resources:block/darkner_oak_slab_top"
+    },
+    "type=double": {
+      "model": "magitech_era_resources:block/darkner_oak_slab_full"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence_gate",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "magitech_era_resources:darkner_oak_planks"
+    }
+  },
+  "result": {
+    "item": "magitech_era_resources:darkner_oak_fence_gate",
+    "count": 1
+  }
+}
