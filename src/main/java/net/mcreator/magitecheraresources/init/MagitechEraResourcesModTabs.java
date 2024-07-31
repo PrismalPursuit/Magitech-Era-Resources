@@ -56,30 +56,30 @@ public class MagitechEraResourcesModTabs {
 				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_INCLUSIVE.get().asItem());
 				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_POLYAMOROUS.get().asItem());
 				tabData.accept(MagitechEraResourcesModBlocks.LGBT_WALL_FLAG_PROGRESSIVE.get().asItem());
-				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_WOOD.get().asItem());
-				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_LOG.get().asItem());
-				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_PLANKS.get().asItem());
-				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_LEAVES.get().asItem());
-				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_STAIRS.get().asItem());
-				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_SLAB.get().asItem());
 				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_FENCE.get().asItem());
 				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_FENCE_GATE.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_LOG.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_WOOD.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_STAIRS.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_LEAVES.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_PLANKS.get().asItem());
 				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_PRESSURE_PLATE.get().asItem());
 				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_BUTTON.get().asItem());
+				tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_SLAB.get().asItem());
 			}).withSearchBar().build());
 
 	@SubscribeEvent
 	public static void buildTabContentsVanilla(BuildCreativeModeTabContentsEvent tabData) {
 		if (tabData.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
-			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_WOOD.get().asItem());
-			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_LOG.get().asItem());
-			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_PLANKS.get().asItem());
-			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_STAIRS.get().asItem());
-			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_SLAB.get().asItem());
 			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_FENCE.get().asItem());
 			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_FENCE_GATE.get().asItem());
+			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_LOG.get().asItem());
+			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_WOOD.get().asItem());
+			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_STAIRS.get().asItem());
+			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_PLANKS.get().asItem());
 			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_PRESSURE_PLATE.get().asItem());
 			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_BUTTON.get().asItem());
+			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_SLAB.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
 			tabData.accept(MagitechEraResourcesModBlocks.DARKNER_OAK_LEAVES.get().asItem());
 		}

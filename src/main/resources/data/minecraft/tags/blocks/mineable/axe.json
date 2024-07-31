@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
     "magitech_era_resources:darkner_oak_planks",
-    "magitech_era_resources:darkner_oak_log",
-    "magitech_era_resources:darkner_oak_wood"
+    "magitech_era_resources:darkner_oak_wood",
+    "magitech_era_resources:darkner_oak_log"
   ]
 }

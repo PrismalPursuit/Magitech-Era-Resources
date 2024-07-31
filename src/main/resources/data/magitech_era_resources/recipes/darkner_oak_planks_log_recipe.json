@@ -4,11 +4,11 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "magitech_era_resources:darkner_oak_log"
+      "item": "magitech_era_resources:deleted_mod_element"
     }
   ],
   "result": {
-    "item": "magitech_era_resources:darkner_oak_planks",
+    "item": "magitech_era_resources:deleted_mod_element",
     "count": 4
   }
 }

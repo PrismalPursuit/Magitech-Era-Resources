@@ -551,106 +551,6 @@
       }
     },
     {
-      "name": "DarknerOakWood",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_wood",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_wood.json",
-          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_wood.json",
-          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_wood.json",
-          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakWoodBlock.java",
-          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_wood.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakLog",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_log",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_log.json",
-          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_log.json",
-          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_log.json",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_log.json",
-          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakLogBlock.java"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakPlanks",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_planks",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_planks.json",
-          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_planks.json",
-          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_planks.json",
-          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakPlanksBlock.java",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_planks.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakLeaves",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_leaves",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_leaves.json",
-          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakLeavesBlock.java",
-          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_leaves.json",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_leaves.json",
-          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_leaves.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakStairs",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_stairs",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_stairs.json",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_stairs_outer.json",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_stairs.json",
-          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_stairs.json",
-          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakStairsBlock.java",
-          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_stairs.json",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_stairs_inner.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakSlab",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_slab",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_slab_full.json",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_slab_top.json",
-          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_slab.json",
-          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_slab.json",
-          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_slab.json",
-          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakSlabBlock.java",
-          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_slab.json"
-        ]
-      }
-    },
-    {
       "name": "DarknerOakFence",
       "type": "block",
       "compiles": true,
@@ -684,6 +584,196 @@
           "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_fence_gate_open.json",
           "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_fence_gate.json",
           "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_fence_gate_wall.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakPlanksWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_planks_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakPlanksLogRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_planks_log_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakButtonRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_log.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_log.json",
+          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_log.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_log.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakLogBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_wood.json",
+          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_wood.json",
+          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_wood.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakWoodBlock.java",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakFenceGateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_stairs.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_stairs_outer.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_stairs.json",
+          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_stairs.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakStairsBlock.java",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_stairs.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_stairs_inner.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_leaves.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakLeavesBlock.java",
+          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_leaves.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_leaves.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_leaves.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DarknerOakPlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkner_oak_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_planks.json",
+          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_planks.json",
+          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_planks.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakPlanksBlock.java",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_planks.json"
         ]
       }
     },
@@ -723,86 +813,20 @@
       }
     },
     {
-      "name": "DarknerOakWoodRecipe",
-      "type": "recipe",
+      "name": "DarknerOakSlab",
+      "type": "block",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "darkner_oak_wood_recipe",
+      "registry_name": "darkner_oak_slab",
       "metadata": {
         "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_wood_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakPlanksLogRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_planks_log_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_planks_log_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakPlanksWoodRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_planks_wood_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_planks_wood_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakStairsRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_stairs_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_stairs_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakSlabRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_slab_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_slab_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakFenceRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_fence_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_fence_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakFenceGateRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_fence_gate_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_fence_gate_recipe.json"
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_slab_full.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_slab_top.json",
+          "src/main/resources/assets/magitech_era_resources/models/block/darkner_oak_slab.json",
+          "src/main/resources/data/magitech_era_resources/loot_tables/blocks/darkner_oak_slab.json",
+          "src/main/resources/assets/magitech_era_resources/blockstates/darkner_oak_slab.json",
+          "src/main/java/net/mcreator/magitecheraresources/block/DarknerOakSlabBlock.java",
+          "src/main/resources/assets/magitech_era_resources/models/item/darkner_oak_slab.json"
         ]
       }
     },
@@ -815,30 +839,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_pressure_plate_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakButtonRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_button_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_button_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "DarknerOakStickRecipe",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "darkner_oak_stick_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/magitech_era_resources/recipes/darkner_oak_stick_recipe.json"
         ]
       }
     }
@@ -1092,8 +1092,8 @@
     ],
     "BLOCKS:minecraft:mineable/axe": [
       "~CUSTOM:DarknerOakPlanks",
-      "~CUSTOM:DarknerOakLog",
-      "~CUSTOM:DarknerOakWood"
+      "~CUSTOM:DarknerOakWood",
+      "~CUSTOM:DarknerOakLog"
     ],
     "BLOCKS:minecraft:slabs": [
       "~CUSTOM:DarknerOakSlab"
