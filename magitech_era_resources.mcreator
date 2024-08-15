@@ -461,7 +461,7 @@
     {
       "name": "LgbtWallFlagPolyamorous",
       "type": "block",
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "lgbt_wall_flag_polyamorous",
       "metadata": {
@@ -477,7 +477,7 @@
     {
       "name": "LgbtWallFlagDemiboy",
       "type": "block",
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "lgbt_wall_flag_demiboy",
       "metadata": {
@@ -493,7 +493,7 @@
     {
       "name": "LgbtWallFlagDemigirl",
       "type": "block",
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "lgbt_wall_flag_demigirl",
       "metadata": {
@@ -509,7 +509,7 @@
     {
       "name": "LgbtWallFlagInclusive",
       "type": "block",
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "lgbt_wall_flag_inclusive",
       "metadata": {
@@ -835,8 +835,8 @@
   "language_map": {
     "en_us": {
       "subtitles.vyletpony_single_minenice2me": "Vylet Pony disc playing",
-      "item.magitech_era_resources.we_do_a_little_trolling": "We Do a Little Trolling",
       "item.magitech_era_resources.murder_everyone_u_know": "MURDER EVERY 1 U KNOW!",
+      "item.magitech_era_resources.we_do_a_little_trolling": "We Do a Little Trolling",
       "subtitles.vyletpony_girlswhoarewizards_7reflectedintheeyesofthecavernlurke": "Vylet Pony disc playing",
       "item.magitech_era_resources.girl_hell_1999": "GIRL HELL 1999",
       "item.magitech_era_resources.girl_hell_1999.desc": "Femtanyl - GIRL HELL 1999",
@@ -846,8 +846,8 @@
       "item.magitech_era_resources.facing_oblivion_to_become_the_lode_star.desc": "Vylet Pony - Facing Oblivion To Become The Lode Star",
       "item.magitech_era_resources.reflected_in_the_eyes_of_the_cavern_lurker": "Reflected In The Eyes Of The Cavern Lurker",
       "item.magitech_era_resources.in_the_name_of_friendship.desc": "Vylet Pony - In The Name Of Friendship",
-      "item.magitech_era_resources.sacred_dragon": "Sacred Dragon",
       "item.magitech_era_resources.katamari": "KATAMARI",
+      "item.magitech_era_resources.sacred_dragon": "Sacred Dragon",
       "item.magitech_era_resources.everything_glimmer": "Everything Glimmer",
       "item.magitech_era_resources.fuck_marry_kill": "FUCK MARRY KILL",
       "item.magitech_era_resources.simple_pony.desc": "Vylet Pony - Simple Pony",
@@ -863,8 +863,8 @@
       "subtitles.vyletpony_minenice2me": "Vylet Pony disc playing",
       "item.magitech_era_resources.murder_everyone_u_know.desc": "Femtanyl - MURDER EVERY 1 U KNOW!",
       "item.magitech_era_resources.bit_of_a_monster.desc": "Vylet Pony - Bit of a Monster",
-      "subtitles.vyletpony_single_bitofamonster": "Vylet Pony disc playing",
       "item.magitech_era_resources.katamari.desc": "Femtanyl - KATAMARI",
+      "subtitles.vyletpony_single_bitofamonster": "Vylet Pony disc playing",
       "item.magitech_era_resources.murdereveryoneuknow": "MURDER EVERY 1 U KNOW!",
       "item.magitech_era_resources.battle_against_the_banished_sorcerer_knight_stinklebug": "Battle! Against The Banished Sorcerer Knight, Stinklebug",
       "subtitles.vyletpony_girlswhoarewizards_4thewizardofwubz-wubanthem-": "Vylet Pony disc playing",
